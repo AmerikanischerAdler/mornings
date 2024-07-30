@@ -1,2 +1,10 @@
-# mornings
- My Personal Travel Blog
+# Mornings
+## Description
+My Personal Travel Blog
+
+## Installation
+In Progress
+
+## Inspiration
+In Progress
+
